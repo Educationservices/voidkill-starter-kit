@@ -9,7 +9,7 @@ This will also kill the process that makes it so you cant use the chromebook at 
 
 If you try accessing the old extensions with a bookmark, (or have applied the EXPL01T without powerwashing,)
 You will see it has been blocked by Chrome.
-
+https://github.com/Educationservices/voidkill-starter-kit/blob/main/Screenshot%202025-05-05%2021.50.17.png?raw=true
 # Downsides
 • This breaks chrome webstore.
 • If you have a managed wallpaper, you could get in trouble.
