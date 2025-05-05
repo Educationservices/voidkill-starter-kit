@@ -11,7 +11,7 @@
 This is the Official explanation for V01dK1LL.
 **This is not a tutorial, this is just a explanation.**
 
-V01dK1LL will M√RD3R AND HIDE THE B0D13S OF extensions like Senso, and other supported extensions, aswell as maintain it forever even after restart.
+V01dK1LL will M√RD3R AND HIDE THE B0D13S OF extensions like Senso, GoGuardian, Lanschool, Secerus, Securly, IBoss, Cisco (unless applied with Network), Net Reef, Bark, InstantAI™ and many more supported extensions, aswell as maintain it forever even after restart.
 (Note: Some extensions that have never been on the chrome webstore and have been installed from a source not known will not be removed.)
 
 
