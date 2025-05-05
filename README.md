@@ -3,11 +3,14 @@ This is the starter pack for Voidkill, a extension killer+wallpaper changer.
 **This is not a tutorial, this is just a explanation.**
 
 VoidKill will KILL extensions like Senso, and other supported extensions, aswell as maintain it forever even after restart.
+(Note: Some extensions that have never been on the chrome webstore and have been installed from a source not known will not be removed.)
+![Screenshot 2025-05-05 21 53 16](https://github.com/user-attachments/assets/cfb83907-a9e8-4a30-8000-9cf84f3041ab)
+
 
 It will also kill the managed wallpaper, allowing a custom wallpaper to be applied.
 ![Screenshot 2025-05-05 21 50 17](https://github.com/user-attachments/assets/d1122bc9-8391-440e-944e-c060f60480d9)
 
-(Note: Some extensions that have never been on the chrome webstore and have been installed from a source not known will not be removed.)
+
 
 This will also kill the process that makes it so you cant use the chromebook at night or early morning. (curfew)
 
