@@ -1,9 +1,11 @@
 # voidkill-starter-kit
-This is the starter pack for Voidkill, a extension killer+wallpaper changer.
+This is the starter pack for Voidkill.
 **This is not a tutorial, this is just a explanation.**
 
 VoidKill will KILL extensions like Senso, and other supported extensions, aswell as maintain it forever even after restart.
 (Note: Some extensions that have never been on the chrome webstore and have been installed from a source not known will not be removed.)
+
+
 ![Screenshot 2025-05-05 21 53 16](https://github.com/user-attachments/assets/cfb83907-a9e8-4a30-8000-9cf84f3041ab)
 
 
