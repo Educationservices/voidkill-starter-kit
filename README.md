@@ -1,5 +1,3 @@
-# V01dK1LL
-
 - (For ChromeBooks® ONLY)
 
 - All rights go to Google© and its affiliates.
@@ -7,6 +5,8 @@
 - This Item(s) is for Educational purposes only.
 
 - I am not responsible for any damage caused to the devices firmware/hardware. (Not like theres any hardware changes anyway)
+
+# V01dK1LL
 
 This is the Official explanation for V01dK1LL.
 **This is not a tutorial, this is just a explanation.**
