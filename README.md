@@ -18,7 +18,9 @@ If you try accessing the old extensions with a bookmark, (or have applied the EX
 You will see it has been blocked by Chrome.
 
 # Downsides
-• This breaks chrome webstore.
+• This breaks chrome webstore and all google images (like account pictures and etc on chrome, not the images section of your search)
+![Screenshot 2025-05-05 21 57 01](https://github.com/user-attachments/assets/634b13de-69c2-4849-87c1-7dc47880638b)
+
 
 • If you have a managed wallpaper, you could get in trouble.
 
